@@ -1,0 +1,1 @@
+web: gunicorn daily_accountability_partner_system.wsgi
